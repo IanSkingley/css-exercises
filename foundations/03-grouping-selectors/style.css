@@ -1,0 +1,17 @@
+.left,
+.right {
+    padding:8px 8px 0 8px;
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+    border: 2px solid darkslategray;
+}
+
+.left {
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+.right {
+    background: yellow;
+}
+
